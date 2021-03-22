@@ -23,7 +23,6 @@ font-family: "Crimson Text", serif;
 
 html {
   box-sizing: border-box;
-  font-family: "Crimson Text", serif;
   line-height: 1.3;
 }
 
@@ -32,50 +31,68 @@ html {
 }
 
 h1 {
-  font-family: "Crimson Text", serif;
   font-size: 1.5rem;
   font-style: normal;
 }
 
 header p {
-  font-family: "Crimson Text", serif;
   font-size: 1.125rem;
   font-style: italic;
   margin-top: -1.125rem;
 }
 
 body {
-
+  font-size: 1.125rem;
+  font-style: normal;
+  padding: 1em;
+  margin: 0;
 }
 
 article {
-
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 article header {
-
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 article h1 {
-
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 article header p {
-
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 article p {
-
+  font-size: 1.125rem;
+  font-style: normal;
 }
 
 article ol {
+  padding: 0;
+  color: #222;
+  font-size: 1.125em;
+  font-weight: normal;
+}
 
+header ol li {
+  display: block;
+  margin: 0 3em;
 }
 
 blockquote {
-
+  font-size: 1.5rem;
+  font-style: normal;
+  color: #999;
 }
 
 .quote {
-
+  font-size: 1.5rem;
+  font-style: normal;
+  color: #999;
 }
